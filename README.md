@@ -1,6 +1,5 @@
 
 ## Purpose
-_________________________________
 
 This program features a messaging platform that allows users to text with other users on the DS platform. This platform supports saving and loading dsu profiles so users are capable of adding other users and exchanging messages with them. Added contacts and past conversations on dsu profiles are saved automatically. The use of a graphical user interface also allows for ease of navigation.
 
@@ -12,7 +11,7 @@ The Toggle Dark Mode button located above the Add User button switched the displ
 
 Ensure you have the latest version of Python installed.
 
-Example exchange:
+## Example Exchange
 <img width="1440" alt="Screenshot 2023-02-18 at 11 02 53 AM" src="https://user-images.githubusercontent.com/10394057/219883776-b43a1c99-04c5-4372-999e-a33e9589b296.png">
 <img width="1440" alt="Screenshot 2023-02-18 at 11 03 35 AM" src="https://user-images.githubusercontent.com/10394057/219883801-09dd2764-aa94-4812-b082-dd3dfbc863a5.png">
 <img width="1440" alt="Screenshot 2023-02-18 at 11 04 15 AM" src="https://user-images.githubusercontent.com/10394057/219883823-7c0f11d2-61b0-4641-ab49-d4cd7afbed4c.png">
