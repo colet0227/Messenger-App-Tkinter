@@ -9,6 +9,9 @@ The Add User button is conveniently located in order to add a contact you wish t
 
 The Toggle Dark Mode button located above the Add User button switched the display and text box from white to black along with the text inside. 
 
+Example exchange:
 <img width="1440" alt="Screenshot 2023-02-18 at 11 02 53 AM" src="https://user-images.githubusercontent.com/10394057/219883776-b43a1c99-04c5-4372-999e-a33e9589b296.png">
-
-
+<img width="1440" alt="Screenshot 2023-02-18 at 11 03 35 AM" src="https://user-images.githubusercontent.com/10394057/219883801-09dd2764-aa94-4812-b082-dd3dfbc863a5.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 11 04 15 AM" src="https://user-images.githubusercontent.com/10394057/219883823-7c0f11d2-61b0-4641-ab49-d4cd7afbed4c.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 11 07 57 AM" src="https://user-images.githubusercontent.com/10394057/219883837-80537a98-e56d-49c4-a3ee-ec4c1b552b06.png">
+<img width="1440" alt="Screenshot 2023-02-18 at 11 08 04 AM" src="https://user-images.githubusercontent.com/10394057/219883840-273a93a3-adb7-4eea-9ce2-471b4c9579a5.png">
