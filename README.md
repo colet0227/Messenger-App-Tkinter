@@ -1,5 +1,5 @@
 
-##Purpose
+## Purpose
 _________________________________
 
 This program features a messaging platform that allows users to text with other users on the DS platform. This platform supports saving and loading dsu profiles so users are capable of adding other users and exchanging messages with them. Added contacts and past conversations on dsu profiles are saved automatically. The use of a graphical user interface also allows for ease of navigation.
