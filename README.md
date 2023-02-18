@@ -1,6 +1,6 @@
 _________________________________
 
-Within our final project code, we utilized skeleton code from a5 as a base code for our tkinter GUI. Along with that sample code, we also used the Profile module, and adjusted it support two more attributes that will store data locally. We made changes to our ds_client module to support sending messages to another person as well as receiving new and all messages. We also tweaked our ds_protocol ever so slightly to support a different type of message.
+This program features a messaging platform that allows users to text with other users on the DS platform. This platform supports saving and loading dsu profiles so users are capable of adding other users and exchanging messages with them. Added contacts and past conversations on dsu profiles are saved automatically. The use of a graphical user interface also allows for ease of navigation.
 
 To run our program, you must first use the menu bar (outside of the interface at the top of the screen) in order to either open or create a new file. You must also use the settings dropdown in order to enter a username or password for the server (this can be an existing username with a valid password or a new username and password). Entering an existing username and password after creating a new file will load all previous recipients along with their sent messages.
 (Editing a username and password is our flourish along with the toggle dark mode button.)
